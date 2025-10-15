@@ -1,4 +1,5 @@
-# Geometry Calculator
+# Geometry_Lib
+Geometry_Lib - тестовый проект для ООО Mindbox
 
 A Python library for calculating areas of geometric shapes like circles and triangles.
 
